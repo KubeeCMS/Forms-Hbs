@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/forms-hbs",
+    "description": "Integrates Forms with HubSpot, allowing form submissions to be automatically sent to HubSpot.",
+    "keywords": ["kubee", "kubeecms", "forms", "hbs", "forms-hbs"],
+    "homepage": "https://github.com/kubeecms/forms-hbs/",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }

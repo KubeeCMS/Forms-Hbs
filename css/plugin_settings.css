@@ -1,0 +1,21 @@
+.deauth_button {
+    margin-top: 1em !important;
+}
+
+#tab_gravityformshubspot table.gforms_form_settings > tbody > tr > th {
+    padding: 0;
+    width: 0;
+}
+
+#deauth_scope, #tab_gravityformshubspot table.gforms_form_settings > tbody > tr:last-child {
+    display: none;
+}
+
+#gform_hubspot_deauth_button {
+    border: 1px solid #9E0B0F;
+    background: #9E0B0F;
+    color: #FFF;
+    -webkit-box-shadow: inset 0 2px 5px -3px rgba( 173, 12, 17, 0.5 );
+    box-shadow: inset 0 2px 5px -3px rgba( 173, 12, 17, 0.5 );
+    text-shadow: none;
+}
